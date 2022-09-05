@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color:rgb(116, 43, 145);
+}
+
+h3 {
+    color:rgb(74, 184, 133);
+}
+
+.about-p {
+    text-align: left;
+}
+.nav {
+    padding: 5px;
+}
+
+li {
+    list-style-position: inside;
+}
+
+ol>li {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
